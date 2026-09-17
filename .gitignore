@@ -1,0 +1,7 @@
+.dev.vars
+.callback_secret.local
+.oauth_run.local.json
+.admin_access_token.local.json
+.admin_token_response.local.json
+node_modules/
+.wrangler/
